@@ -1,0 +1,14 @@
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\Snake and Apple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\Snake and Apple.AssemblyInfoInputs.cache
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\Snake and Apple.AssemblyInfo.cs
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\Snake and Apple.csproj.CoreCompileInputs.cache
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\bin\Debug\net8.0\Snake and Apple.exe
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\bin\Debug\net8.0\Snake and Apple.deps.json
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\bin\Debug\net8.0\Snake and Apple.runtimeconfig.json
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\bin\Debug\net8.0\Snake and Apple.dll
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\bin\Debug\net8.0\Snake and Apple.pdb
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\Snake and Apple.dll
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\refint\Snake and Apple.dll
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\Snake and Apple.pdb
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\Snake and Apple.genruntimeconfig.cache
+C:\Users\Yum1k\source\repos\Snake and Apple\Snake and Apple\obj\Debug\net8.0\ref\Snake and Apple.dll

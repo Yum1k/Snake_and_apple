@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|c:\\users\\yum1k\\source\\repos\\snake and apple\\snake and apple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|solutionrelative:snake and apple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|c:\\users\\yum1k\\source\\repos\\snake and apple\\snake and apple\\checkcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|solutionrelative:snake and apple\\checkcollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|c:\\users\\yum1k\\source\\repos\\snake and apple\\snake and apple\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|solutionrelative:snake and apple\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|c:\\users\\yum1k\\source\\repos\\snake and apple\\snake and apple\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304394CF-628A-41DE-8397-FFF827275EE8}|Snake and Apple\\Snake and Apple.csproj|solutionrelative:snake and apple\\apple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\CheckCollision.cs",
+              "RelativeDocumentMoniker": "Snake and Apple\\CheckCollision.cs",
+              "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\CheckCollision.cs",
+              "RelativeToolTip": "Snake and Apple\\CheckCollision.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:39:20.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apple.cs",
+              "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\Apple.cs",
+              "RelativeDocumentMoniker": "Snake and Apple\\Apple.cs",
+              "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\Apple.cs",
+              "RelativeToolTip": "Snake and Apple\\Apple.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:44:05.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\Move.cs",
+              "RelativeDocumentMoniker": "Snake and Apple\\Move.cs",
+              "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\Move.cs",
+              "RelativeToolTip": "Snake and Apple\\Move.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:49:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\Program.cs",
+              "RelativeDocumentMoniker": "Snake and Apple\\Program.cs",
+              "ToolTip": "C:\\Users\\Yum1k\\source\\repos\\Snake and Apple\\Snake and Apple\\Program.cs",
+              "RelativeToolTip": "Snake and Apple\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T06:03:01.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
