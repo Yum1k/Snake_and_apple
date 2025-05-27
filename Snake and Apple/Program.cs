@@ -84,7 +84,7 @@ class Program()
             {
                 var key = Console.ReadKey(true).Key;
                 // Переключение паузы
-                if (key == ConsoleKey.P)
+                if (key == ConsoleKey.Spacebar)
                 {
                     isPaused = !isPaused;
 
@@ -95,7 +95,7 @@ class Program()
                     if (isPaused)
                     {
                         Console.SetCursorPosition(0, map.GetLength(0) + 2);
-                        Console.WriteLine("Пауза. Нажмите английскую клавишу \"P\", чтобы продолжить...");
+                        Console.WriteLine("Пауза. Нажмите клавишу Пробел, чтобы продолжить...");
                     }
                 }
 

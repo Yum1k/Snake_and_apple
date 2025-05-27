@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Snake and Apple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24fd689f1575dd47381339bae97ecf224bd3efec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Snake and Apple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Snake and Apple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
